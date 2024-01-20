@@ -11,10 +11,10 @@ Welcome to my coding playground! I'm a computer science enthusiast in the thrill
 
 ##
 🌐 Connect with Me
-Let's connect on LinkedIn[ https://www.linkedin.com/in/pranav-sirsufale-488ba4269/]!
-Check out my coding adventures on GitHub[https://github.com/pranavsirsufale]!
+- Let's connect on LinkedIn[ https://www.linkedin.com/in/pranav-sirsufale-488ba4269/]!
+- Check out my coding adventures on GitHub[https://github.com/pranavsirsufale]!
 🌟 Fun Fact
-Did you know? I'm on a mission to learn at least one new thing every day. Join me in this exciting quest for knowledge!
+ - Did you know? I'm on a mission to learn at least one new thing every day. Join me in this exciting quest for knowledge!
 
 Let's collaborate and build something extraordinary! 💻✨
 ##

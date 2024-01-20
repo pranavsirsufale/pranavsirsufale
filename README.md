@@ -9,6 +9,16 @@ Welcome to my coding playground! I'm a computer science enthusiast in the thrill
 - 🌍 Jetsetter at heart, I love exploring new technologies and global destinations.
 - 📞 Ring me up at +91 8482852301 or shoot a virtual pigeon to pranavsirsufale@gmail.com.
 
+##
+🌐 Connect with Me
+Let's connect on LinkedIn[ https://www.linkedin.com/in/pranav-sirsufale-488ba4269/]!
+Check out my coding adventures on GitHub[https://github.com/pranavsirsufale]!
+🌟 Fun Fact
+Did you know? I'm on a mission to learn at least one new thing every day. Join me in this exciting quest for knowledge!
+
+Let's collaborate and build something extraordinary! 💻✨
+##
+
 ## 🔧 Tech Toolbox
 
 ```python
@@ -19,16 +29,5 @@ const pranav = {
   motto: "console.log('Keep coding and stay curious!')",
 };
 
-##
-🌐 Connect with Me
-Let's connect on LinkedIn[ https://www.linkedin.com/in/pranav-sirsufale-488ba4269/]!
-Check out my coding adventures on GitHub[https://github.com/pranavsirsufale]!
-🌟 Fun Fact
-Did you know? I'm on a mission to learn at least one new thing every day. Join me in this exciting quest for knowledge!
 
-Let's collaborate and build something extraordinary! 💻✨
-##
-<!---
-pranavsirsufale/pranavsirsufale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

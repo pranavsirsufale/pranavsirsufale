@@ -1,14 +1,26 @@
 # Hi there! 👋 I'm Pranav Sirsufale
 
-Welcome to my coding playground! I'm a computer science enthusiast in the thrilling journey of my 3rd year. My heart beats for web development and Python magic.
+Welcome to my coding journey! I'm passionate about web development and constantly exploring new technologies to build innovative solutions.
 
 ## 🚀 About Me
 
-- 🌱 Currently infatuated with Python, nurturing my coding garden.
-- 💡 Seeking cosmic opportunities to level up my skills and contribute to impactful projects.
-- 🌍 Jetsetter at heart, I love exploring new technologies and global destinations.
-- 📞 Ring me up at +91 8482852301 or shoot a virtual pigeon to pranavsirsufale@gmail.com.
+- 💻 Full-stack web developer with a focus on front-end technologies like HTML, CSS, and JavaScript.
+- 🌱 Currently diving deep into React.js to build dynamic and interactive user interfaces.
+- 🎨 Enthusiastic about UI/UX design principles and creating visually appealing websites.
+- 🌍 Eager to collaborate on projects that make a positive impact on society and the environment.
+- 📞 Reach out to me at pranavsirsufale@gmail.com or connect with me on https://www.linkedin.com/in/pranav-sirsufale-488ba4269/.
 
+## 🌐 Web Development Stack
+
+```javascript
+const webDeveloper = {
+  languages: ["HTML", "CSS", "JavaScript","Python","PHP"],
+  frontend: ["React.js", ],
+  backend: ["Node.js", "Express.js", "Django","PHP",],
+  databases: ["MongoDB", "MySQL", ],
+  tools: ["VS Code", "Git",],
+  versionControl: ["Git", "GitHub",]
+};
 ##
 🌐 Connect with Me
 - Let's connect on LinkedIn[ https://www.linkedin.com/in/pranav-sirsufale-488ba4269/]!
@@ -21,15 +33,6 @@ Welcome to my coding playground! I'm a computer science enthusiast in the thrill
 Let's collaborate and build something extraordinary! 💻✨
 ##
 
-## 🔧 Tech Toolbox
-
-```python
-const pranav = {
-  languages: ["Python", "HTML", "CSS", "JavaScript","React","Next js","Tailwind Css","MySQL", "Mongo",{}],
-  interests: ["Web Development", "Problem Solving", "Learning New Tech"],
-  tools: ["VS Code", "Git", "Docker"],
-  motto: "console.log('Keep coding and stay curious!')",
-};
 
 
 

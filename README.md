@@ -12,7 +12,6 @@ Welcome to my coding journey! I'm passionate about web development and constantl
 
 ## 🌐 Web Development Stack
 
-codebucks codebucks27 CodeBucks code.bucks codebucks27 code_bucks codebucks27
 
 ```javascript
 const webDeveloper = {

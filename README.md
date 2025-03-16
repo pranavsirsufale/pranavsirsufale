@@ -1,27 +1,37 @@
 # Hi there! 👋 I'm Pranav Sirsufale
 
-Welcome to my coding journey! I'm passionate about web development and constantly exploring new technologies to build innovative solutions.
+Welcome to my journey in AI, Data Science, and Software Development! I’m passionate about building intelligent solutions that merge AI, data, and development to create real-world impact.
 
 ## 🚀 About Me
 
-- 💻 Full-stack web developer with a focus on front-end technologies like HTML, CSS, and JavaScript.
-- 🌱 Currently diving deep into React.js to build dynamic and interactive user interfaces.
-- 🎨 Enthusiastic about UI/UX design principles and creating visually appealing websites.
+- 🤖 AI & Data Science Enthusiast – Focused on Machine Learning, NLP, and Healthcare AI.
+- 💻 Full-Stack Developer – Experienced in React.js, Node.js, and Django for web applications.
+- 📊 Skilled in Data Analytics & Predictive Modeling to extract insights from real-world data.
+- 🏥 Passionate about applying AI in Healthcare & Medical Technology.
+- 🌍 Open to collaborating on AI-driven applications, web development, and research projects.
 - 🌍 Eager to collaborate on projects that make a positive impact on society and the environment.
 - 📞 Reach out to me at pranavsirsufale@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/pranav-sirsufale-488ba4269/).
 
-## 🌐 Web Development Stack
+## 🛠 Tech Stack
+
+```
+tech_stack = {
+  "Programming Languages": ["Python", "JavaScript", "R-programming],
+  "AI & Data Science": ["TensorFlow", "PyTorch", "scikit-learn", "Pandas", "NLP","ggplot2","caret","caTools","class"],
+  "Web Development": ["React.js", "Node.js", "Express.js", "Django"],
+  "Databases": ["MongoDB", "MySQL"],
+  "Tools": ["Git", "Docker", "Jupyter Notebook"]
+}
+```
+## 📂 Featured Projects
+
+- 🏥 Medical Diagnosis AI – AI-based disease detection using deep learning.
+- 🧠 NLP for Healthcare – Extracting insights from clinical data with NLP.
+- 🌐 Full-Stack AI Dashboard – A web-based platform integrating AI & Data Visualization.
+- 📈 Predictive Analytics – Machine Learning models for forecasting trends.
+- 💻 E-Commerce Web App – Built a scalable full-stack application with React & Django.
 
 
-```javascript
-const webDeveloper = {
-  languages: ["HTML", "CSS", "JavaScript","Python","PHP"],
-  frontend: ["React.js", ],
-  backend: ["Node.js", "Express.js", "Django","PHP",],
-  databases: ["MongoDB", "MySQL", ],
-  tools: ["VS Code", "Git",],
-  versionControl: ["Git", "GitHub",]
-};
 ##
 🌐 Connect with Me
 - Let's connect on LinkedIn https://www.linkedin.com/in/pranav-sirsufale-488ba4269/
@@ -33,6 +43,9 @@ const webDeveloper = {
 
 Let's collaborate and build something extraordinary! 💻✨
 ##
+
+
+
 
 
 
